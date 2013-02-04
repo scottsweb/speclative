@@ -3,7 +3,7 @@
 ## Speclative
 
 * Contributors: [@scottsweb](http://twitter.com/scottsweb)
-* Description: Speclative: The speculative news laxative (Bookmarklet)
+* Description: Speclative: The speculative news laxative (bookmarklet)
 * Author: [Scott Evans](http://scott.ee)
 * Author URI: [http://scott.ee](http://scott.ee)
 * License: GNU General Public License v2.0
@@ -11,7 +11,7 @@
 
 ## about
 
-Are you fed up of the &lsquo;could be&rsquo;, &lsquo;possiblies&rsquo; and &lsquo;maybes&rsquo; found in todays news? Take back your time and sanity with Speclative &reg; : An Internet speculation filter (delivered via bookmarklet), that determines if an online article is worth reading (or not).
+Are you fed up of the &lsquo;could be&rsquo;, &lsquo;possiblies&rsquo; and &lsquo;maybes&rsquo; found in todays news? Take back your time and sanity with Speclative &reg;: An Internet speculation filter (delivered via bookmarklet), that determines if an online article is worth reading (or not).
 
 Test it at [speclative.scott.ee](http://speclative.scott.ee).
 
