@@ -1,0 +1,94 @@
+	
+#pill-feedback,
+#pill-feedback *
+	{
+	padding: 0;
+	margin: 0;
+	font-family: Arial !important;
+	color: #fff;
+	font-size: 12px;
+	}
+
+#pill-feedback a, 
+#pill-feedback a:link, 
+#pill-feedback a:visited
+	{
+	cursor: pointer;
+	color: #cf0385;
+	text-decoration: none;
+	outline: none;
+	}
+
+#pill-feedback a:hover
+	{
+	cursor: pointer;
+	color: #fff;
+	text-decoration: none;
+	}
+
+#pill-feedback
+	{
+	position: fixed;
+	background: rgb(0,0,0);
+	background: rgba(0,0,0,0.85);
+	background-image: url(http://speclative.scott.ee/img/bg-bookmarklet-score.png);
+	background-repeat: no-repeat;
+	background-position: center right;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+	z-index: 1001;
+	cursor: pointer;
+	height: 59px;
+	border-top: 1px solid #000;
+	}
+
+#pill-inner
+	{
+	height: 59px;
+	position: relative;
+	}
+
+#pill-icon
+	{
+	position: absolute;
+	left: 20px;
+	top: 13px;
+	}
+
+#pill-loading
+	{
+	position: absolute;
+	top: 24px;
+	left: 20px;
+	}
+	
+#pill-text
+	{
+	position: absolute;
+	top: 24px;
+	left: 67px;
+	}
+
+#pill-text strong
+	{
+	color: #cf0385;
+	}
+
+#pill-score
+	{
+	position: fixed;
+	right: 23px;
+	bottom: 0px;
+	font-size: 60px !important;
+	color: rgb(255,255,255);
+	color: rgba(255,255,255,0.2);
+	vertical-align: text-top;
+	line-height: 1em;
+	letter-spacing: -0.05em;
+	}
+
+#pill-feedback img
+	{
+	border: none !important;
+	}
