@@ -18,7 +18,7 @@ Test it at [speclative.scott.ee](http://speclative.scott.ee).
 
 ## Installation
 
-Requirements are PHP/MySQL/Apache. You will need to create a new database and import db.sql into it. Once you have done that add your database and domain configuration to includes/class.config.php. It is clearly labelled. The code is configured to run from its current URL (speclative.scott.ee). It appears a handful of times (class.config.php, index.php, speclative.js) throughout the code so a search and replace will do the job.
+Requirements are PHP/MySQL/Apache. You will need to create a new database and import db.sql into it. Once you have done that add your database and domain configuration to includes/class.config.php. It is clearly labelled. The code is configured to run from its current URL (speclative.scott.ee). It appears a handful of times (class.config.php, index.php, speclative.js) throughout the code so a search and replace will need to be performed.
 
 ## Changelog
 
