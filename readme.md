@@ -1,4 +1,4 @@
-![Speclative image](http://cloud.scott.ee/images/speclative.png)
+![Speclative image](http://cloud.scott.ee/images/speclative.jpg)
 
 ## Speclative
 
